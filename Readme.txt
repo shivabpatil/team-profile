@@ -1,0 +1,1 @@
+To create new card => copy paste profile-card div and add new info there. You can add links to a tags if you want to.
